@@ -38,6 +38,7 @@ Como membro deste Slack, você concorda que:
 * Nós evitamos tópicos ofensivos como forma de humor.
 * Nós evitamos assuntos que remetem a sexo.
 * Nós não toleramos pirataria e violação dos termos de uso de outros softwares e serviços.
+* Nós nos reservamos o direito de verificar a identidade dos membros da comunidade em caso de suspeita de _impersonation_.
 
 Nós trabalhamos ativamente para:
 
@@ -47,6 +48,7 @@ Nós trabalhamos ativamente para:
 
 Nós condenamos:
 
+* Criar perfil fingindo ser outra pessoa para fins de entretenimento, fraude ou incentivar que violações o código de conduta.
 * Perseguição, "doxxing" (investigar a vida de uma pessoa sem autorização) ou publicações indevidas de informações privadas.
 * Ameaças de todos os tipos e assédio.
 * Qualquer comportamento que comprometa a segurança dos demais membros.
