@@ -68,6 +68,7 @@ Failing to follow the community guidelines as described in this document carries
 * Jake Ouellette - @jakeout
 * Maria Neumayer - @maria
 * Mike Evans - @michael.evans
+* Mike Nakhimovich - @FriendlyMike 
 * Sam Wolfand - @Sam
 * Ty Smith - @ty
 * Vince Mi - @vince
