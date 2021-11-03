@@ -74,12 +74,11 @@ Failing to follow the community guidelines as described in this document carries
 ## Member Nomination  
 
 To invite a new member to ASG, use the built-in invite tool in the Slack menu. Enter email, full name and the necessary details in the Reason field. What we want to see is the following:
-
-- Years of Android experience
-- Workplace and how you know the person
-- What do they add to ASG?
-- GitHub and/or Twitter username
-- Relevant apps or open source contributions
+- Years of Android experience. At the minimum 1 year of active Android development work.
+- What kind of Android experience do they bring to ASG? 
+- Do you think the person would actively participate in ASG? .
+- Where is the nominee working and how do you know the person?
+- At least one external reference like GitHub, Twitter or LinkedIn. Due to limits in Slack for including URLs, use a format like this: github:username, twitter:username, linkedin:username, etc.
 
 We highly discourage mass invites (don't invite all your coworkers at once) and invites missing information will also be denied. We might reach out for additional information or clarifications if needed. Since the Reason field doesn’t allow URLs and has a limited length (560 characters), send additional info in a DM to an admin and they will add it as a comment in the review channel.
 
